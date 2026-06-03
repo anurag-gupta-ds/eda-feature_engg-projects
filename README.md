@@ -1,9 +1,7 @@
 # 📊 EDA Projects >>>>> Done With Zomato dataset other will be uploaded soon...
-
 A collection of Exploratory Data Analysis (EDA) projects
 completed as part of my Data Analytics and Data Science
 learning journey.
-
 The objective of these projects is to develop practical
 skills in data cleaning, data visualization, statistical
 analysis, and extracting meaningful insights from
@@ -63,7 +61,6 @@ real-world datasets.
 ## 📚 Learning Outcomes
 
 Through these projects, I strengthened my understanding of:
-
 - Exploratory Data Analysis (EDA)
 - Data Cleaning Techniques
 - Statistical Thinking
@@ -75,10 +72,15 @@ Through these projects, I strengthened my understanding of:
 
 ## 📌 Dataset Sources
 
-- 🚢 Titanic Dataset — [Kaggle](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
-- 🎬 Netflix Dataset — [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+| # | Dataset | Source |
+|---|---------|--------|
+| 1 | 🍕 Zomato Dataset | [Kaggle](https://www.kaggle.com/datasets/shrutimehta/zomato-restaurants-data) |
+| 2 | 🛍️ Black Friday Dataset | [Kaggle](https://www.kaggle.com/datasets/sdolezel/black-friday) |
+| 3 | ✈️ Flight Price Prediction Dataset | [Kaggle](https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction) |
+| 4 | 🚢 Titanic Dataset | [Kaggle](https://www.kaggle.com/datasets/yasserh/titanic-dataset) |
+| 5 | 🎬 Netflix Dataset | [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows) |
 
-  ---
+---
 
 ## 👨‍💻 Author
 
