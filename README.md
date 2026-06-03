@@ -84,7 +84,7 @@ Through these projects, I strengthened my understanding of:
 
 | # | Dataset | Source |
 |---|---------|--------|
-| 1 | 🍕 Zomato Dataset | Kaggle |
+| 1 | 🍕 Zomato Dataset | [Kaggle](https://www.kaggle.com/datasets/shrutimehta/zomato-restaurants-data) |
 
 ---
 
