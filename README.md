@@ -1,4 +1,4 @@
-# 📊 EDA Projects >>>>> Done With Zomato dataset other will be uploaded soon...
+# 📊 EDA Projects 
 A collection of Exploratory Data Analysis (EDA) projects
 completed as part of my Data Analytics and Data Science
 learning journey.
@@ -14,10 +14,6 @@ real-world datasets.
 | # | Project | Key Analysis |
 |---|---------|-------------|
 | 1 | [🍕 Zomato Data Analysis](./zomato-data-analysis) | Ratings, Cuisines, Country-wise, Online Delivery |
-| 2 | [🛍️ Black Friday Data Analysis](./black-friday-data-analysis) | Purchase Patterns, Demographics, Product Analysis |
-| 3 | [✈️ Flight Price Prediction EDA](./flight-price-prediction-eda) | Price Trends, Routes, Airlines, Seasonality |
-| 4 | [🚢 Titanic Data Analysis](./titanic-data-analysis) | Survival Analysis, Passenger Demographics, Feature Relationships |
-| 5 | [⚙️ Automated EDA](./automated-eda) | Automated Profiling, Statistical Summary, Visualizations |
 
 ---
 
@@ -75,13 +71,22 @@ Through these projects, I strengthened my understanding of:
 | # | Dataset | Source |
 |---|---------|--------|
 | 1 | 🍕 Zomato Dataset | [Kaggle](https://www.kaggle.com/datasets/shrutimehta/zomato-restaurants-data) |
-| 2 | 🛍️ Black Friday Dataset | [Kaggle](https://www.kaggle.com/datasets/sdolezel/black-friday) |
-| 3 | ✈️ Flight Price Prediction Dataset | [Kaggle](https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction) |
-| 4 | 🚢 Titanic Dataset | [Kaggle](https://www.kaggle.com/datasets/yasserh/titanic-dataset) |
-| 5 | 🎬 Netflix Dataset | [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows) |
 
+---
+
+## 🚀 Repository Status
+
+✅ Zomato Data Analysis Completed
+
+🔄 Upcoming Projects:
+- Titanic Data Analysis
+- Netflix Data Analysis
+- Black Friday Data Analysis
+- Flight Price Prediction EDA
+  
 ---
 
 ## 👨‍💻 Author
 
 **Anurag Gupta**
+
