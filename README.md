@@ -95,7 +95,7 @@ Through these projects, I strengthened my understanding of:
 ### ✅ Completed
 
 - 🍕 Zomato Data Analysis
-- - 🛍️ Black Friday Data Analysis
+- 🛍️ Black Friday Data Analysis
 
 ### 🔄 Upcoming Projects
 
