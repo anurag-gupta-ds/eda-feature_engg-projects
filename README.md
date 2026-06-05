@@ -11,6 +11,7 @@ The objective of these projects is to develop practical skills in data cleaning,
 | # | Project | Key Analysis |
 |---|---------|-------------|
 | 1 | [🍕 Zomato Data Analysis](./zomato-data-analysis) | Data Cleaning, Missing Values, Ratings Analysis, Cuisines Analysis, Country-wise Analysis, Online Delivery Trends, Visualizations |
+| 2 | [🛍️ Black Friday Data Analysis](./black-friday-data-analysis) | End-to-end EDA and Feature Engineering on Black Friday sales dataset including data cleaning, encoding, visualization, and preprocessing for ML model training. |
 
 ---
 
@@ -85,6 +86,7 @@ Through these projects, I strengthened my understanding of:
 | # | Dataset | Source |
 |---|---------|--------|
 | 1 | 🍕 Zomato Dataset | [Kaggle](https://www.kaggle.com/datasets/shrutimehta/zomato-restaurants-data) |
+| 2 | 🛍️ Black Friday Dataset | [Kaggle](https://www.kaggle.com/datasets/sdolezel/black-friday) |
 
 ---
 
@@ -93,12 +95,12 @@ Through these projects, I strengthened my understanding of:
 ### ✅ Completed
 
 - 🍕 Zomato Data Analysis
+- - 🛍️ Black Friday Data Analysis
 
 ### 🔄 Upcoming Projects
 
 - 🚢 Titanic Data Analysis
 - 🎬 Netflix Data Analysis
-- 🛍️ Black Friday Data Analysis
 - ✈️ Flight Price Prediction Analysis
   
 ---
