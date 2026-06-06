@@ -88,6 +88,7 @@ Through these projects, I strengthened my understanding of:
 |---|---------|--------|
 | 1 | 🍕 Zomato Dataset | [Kaggle](https://www.kaggle.com/datasets/shrutimehta/zomato-restaurants-data) |
 | 2 | 🛍️ Black Friday Dataset | [Kaggle](https://www.kaggle.com/datasets/sdolezel/black-friday) |
+| 3 | 🚢 Titanic Dataset | [Kaggle](https://www.kaggle.com/datasets/yasserh/titanic-dataset) |
 
 ---
 
@@ -97,12 +98,11 @@ Through these projects, I strengthened my understanding of:
 
 - 🍕 Zomato Data Analysis
 - 🛍️ Black Friday Data Analysis
+- 🚢 Titanic Data Analysis
 
 ### 🔄 Upcoming Projects
 
-- 🚢 Titanic Data Analysis
 - 🎬 Netflix Data Analysis
-- ✈️ Flight Price Prediction Analysis
   
 ---
 
