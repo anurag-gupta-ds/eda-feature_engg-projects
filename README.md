@@ -10,7 +10,7 @@ The objective of these projects is to develop practical skills in data cleaning,
 
 | # | Project | Key Analysis |
 |---|---------|-------------|
-| 1 | [🍕 Zomato Dataset Analysis](./zomato-data-analysis) | Data Cleaning, Missing Values, Ratings Analysis, Cuisines Analysis, Country-wise Analysis, Online Delivery Trends, Visualizations |
+| 1 | [🍕 Zomato Data Analysis](./zomato-data-analysis) | Data Cleaning, Missing Values, Ratings Analysis, Cuisines Analysis, Country-wise Analysis, Online Delivery Trends, Visualizations |
 | 2 | [🛍️ Black Friday Analysis](./black-friday-analysis) | End-to-end EDA and Feature Engineering on Black Friday sales dataset including data cleaning, encoding, visualization, and preprocessing for ML model training. |
 
 ---
