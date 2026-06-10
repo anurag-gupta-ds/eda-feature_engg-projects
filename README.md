@@ -13,6 +13,7 @@ The objective of these projects is to develop practical skills in data cleaning,
 | 1 | [🍕 Zomato Data Analysis](./zomato-data-analysis) | Data Cleaning, Missing Values, Ratings Analysis, Cuisines Analysis, Country-wise Analysis, Online Delivery Trends, Visualizations |
 | 2 | [🛍️ Black Friday Analysis](./black-friday-analysis) | End-to-end EDA and Feature Engineering on Black Friday sales dataset including data cleaning, encoding, visualization, and preprocessing for ML model training. |
 | 3 | [🚢 Titanic Dataset Analysis](./titanic-dataset-analysis) | Survival Analysis, Passenger Demographics, Feature Relationships |
+| 4 | [🎬 Netflix Dataset Analysis](./netflix-dataset-analysis) | Content Trends, Rating Distribution, Country-wise Analysis, Movies vs TV Shows Insights |
 
 ---
 
@@ -89,7 +90,7 @@ Through these projects, I strengthened my understanding of:
 | 1 | 🍕 Zomato Dataset | [Kaggle](https://www.kaggle.com/datasets/shrutimehta/zomato-restaurants-data) |
 | 2 | 🛍️ Black Friday Dataset | [Kaggle](https://www.kaggle.com/datasets/sdolezel/black-friday) |
 | 3 | 🚢 Titanic Dataset | [Kaggle](https://www.kaggle.com/datasets/yasserh/titanic-dataset) |
-
+| 4 | 🎬 Netflix Dataset | [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows) |
 ---
 
 ## 🚀 Repository Status
@@ -99,9 +100,6 @@ Through these projects, I strengthened my understanding of:
 - 🍕 Zomato Data Analysis
 - 🛍️ Black Friday Data Analysis
 - 🚢 Titanic Data Analysis
-
-### 🔄 Upcoming Projects
-
 - 🎬 Netflix Data Analysis
   
 ---
