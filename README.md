@@ -91,17 +91,7 @@ Through these projects, I strengthened my understanding of:
 | 2 | 🛍️ Black Friday Dataset | [Kaggle](https://www.kaggle.com/datasets/sdolezel/black-friday) |
 | 3 | 🚢 Titanic Dataset | [Kaggle](https://www.kaggle.com/datasets/yasserh/titanic-dataset) |
 | 4 | 🎬 Netflix Dataset | [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows) |
----
 
-## 🚀 Repository Status
-
-### ✅ Completed
-
-- 🍕 Zomato Data Analysis
-- 🛍️ Black Friday Data Analysis
-- 🚢 Titanic Data Analysis
-- 🎬 Netflix Data Analysis
-  
 ---
 
 ## 👨‍💻 Author
