@@ -14,6 +14,7 @@ The objective of these projects is to develop practical skills in data cleaning,
 | 2 | [🛍️ Black Friday Analysis](./black-friday-analysis) | End-to-end EDA and Feature Engineering on Black Friday sales dataset including data cleaning, encoding, visualization, and preprocessing for ML model training. |
 | 3 | [🚢 Titanic Dataset Analysis](./titanic-dataset-analysis) | Survival Analysis, Passenger Demographics, Feature Relationships |
 | 4 | [🎬 Netflix Dataset Analysis](./netflix-dataset-analysis) | Content Trends, Rating Distribution, Country-wise Analysis, Movies vs TV Shows Insights |
+| 5 | [🤖 Automated EDA](./automated-eda) | Data Profiling, Missing Value Analysis, Feature Distribution, Automated Report Generation |
 
 ---
 
