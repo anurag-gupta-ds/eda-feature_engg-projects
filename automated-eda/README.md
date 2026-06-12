@@ -24,7 +24,6 @@ To automatically analyze the dataset and generate detailed profiling reports con
 
 * Python 3
 * Pandas
-* NumPy
 * YData Profiling (`ydata-profiling`)
 * Sweetviz
 * Jupyter Notebook
